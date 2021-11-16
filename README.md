@@ -1,0 +1,5 @@
+- 👋 Hi, you can call me Coco,i love technology and im a developer enthusiast
+- 👀 I’m interested in Javascript, ReactJS, MongoDB, PHP, SQL...
+- 🌱 I’m currently learning ... APIs, Tensorflow, AI and everything related to deep learning
+- 💞️ I’m looking to collaborate with anybody interested, reach me out here!
+- 📫 easie peacei, my email is `${tompanadero}` =+"gmail.com
