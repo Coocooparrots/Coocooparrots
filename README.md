@@ -1,5 +1,6 @@
-- 👋 Hi, you can call me Coco,i love technology and im a developer enthusiast
-- 👀 I’m interested in Javascript, ReactJS, MongoDB, PHP, SQL...
+- 👋 Hi, im Coco,i love technology and im a developer enthusiast
+- 👀 I’m interested in Web3. Javascript, ReactJS, MongoDB, PHP, SQL...
 - 🌱 I’m currently learning ... APIs, Tensorflow, AI and everything related to deep learning
-- 💞️ I’m looking to collaborate with anybody interested, reach me out here!
-- 📫 easie peacei, my email is `${ericklopez}` =+"bluewin . ch // spam my ass out
+- 💞️ I’m looking to collaborate with people outside South America!
+- 📫 easie peacei, some asshole broke into my email, so no email for now, use form
+- 
